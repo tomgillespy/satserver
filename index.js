@@ -6,6 +6,7 @@ var moment = require('moment');
 var formatcoords = require('formatcoords');
 
 var tle = 'ISS (ZARYA)';
+//var tle = 'TIANGONG 1';
 var tle1 = '1 25544U 98067A   18025.64405705  .00016717  00000-0  10270-3 0  9015';
 var tle2 = '2 25544  51.6395   9.3206 0003787  42.7806 317.3641 15.54221535 16345';
 
